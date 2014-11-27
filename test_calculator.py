@@ -10,5 +10,5 @@ class TestCalculator(TestCase):
         #self.assertEqual(my_calc.suma(), 6)
         my_calc=mock(Calculator)
         when(my_calc).suma().thenReturn(6)
-        self.assertEqual(my_calc.suma(),6)
+        self.assertEqual(my_calc.suma(),9)
         a=2
