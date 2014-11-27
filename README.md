@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/javierperezflorido/calculator_travis.svg?branch=master)](https://travis-ci.org/javierperezflorido/calculator_travis)
+[![Coverage Status](https://coveralls.io/repos/javierperezflorido/calculator_travis/badge.png?branch=master)](https://coveralls.io/r/javierperezflorido/calculator_travis?branch=master)
