@@ -4,7 +4,7 @@ python:
 # command to install dependencies
 
 install:
-    - pip install pytest
+    - pip install pytest pytest-cov
 # command to run tests
 script:
-    - py.test
+    - py.test --cov . --cov-report term-missing
