@@ -1,0 +1,3 @@
+[![Build Status](https://travis-ci.org/jpflorido/calculator_travis.svg?branch=master)](https://travis-ci.org/jpflorido/calculator_travis)
+[![Coverage Status](https://coveralls.io/repos/jpflorido/calculator_travis/badge.png?branch=master)](https://coveralls.io/r/jpflorido/calculator_travis?branch=master)
+[![Code Health](https://landscape.io/github/jpflorido/calculator_travis/master/landscape.svg)](https://landscape.io/github/jpflorido/calculator_travis/master)
